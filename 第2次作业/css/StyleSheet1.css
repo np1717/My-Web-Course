@@ -1,0 +1,12 @@
+﻿body {
+}
+.total{width:760px;text-align:center;border:5px solid green;}
+.logo{height:140px;border-bottom:5px solid green;line-height:140px;}
+.navigation{height:80px;border-bottom:5px solid green;line-height:80px;}
+.content{height:300px;width:760px;border-bottom:5px solid green;line-height:300px;}
+.left{width:100px;float:left;height:300px;border-right:5px solid green;}
+.middle{height:300px;width:550px;float:left;}
+.right{width:100px;height:300px;float:right;border-left:5px solid green;}
+.bottom{height:80px;line-height:80px;}
+
+

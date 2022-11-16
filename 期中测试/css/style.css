@@ -1,0 +1,69 @@
+﻿body {
+}
+.top {
+    background-image: url('../images/banner.png');
+    background-position: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    height:350px;
+}
+.bk {
+    background-image: url('../images/top.png');
+    height:143px;
+}
+.list{
+    padding-left:15%;
+    padding-top:45px;
+}
+.list li{
+    float:left;
+    margin-right:50px;
+    list-style:none;
+}
+.content{
+    padding:100px;
+}
+.whole{
+	 background:#fff;
+	 box-shadow:0px 0px 10px #555;
+}
+.artists{
+	padding:30px;
+}
+.product-grids h6{
+	font-weight:bold;
+	text-transform:uppercase;	
+	font-size: 22px;
+	color: #7ca222;
+	text-align: left;
+}
+.product-grid h4{
+	text-align:center;
+	color: #585252;
+	font-size:18px;
+	text-transform: uppercase;
+	padding:20px 0px 10px;
+	font-weight:bold;
+	font-family: 'Carrois Gothic SC', sans-serif;
+}
+.product-grid h4:hover{
+	color: #00df37;
+	cursor:pointer;
+}
+.product-grid:hover{
+	box-shadow:0px 0px 10px #F1F1F1;
+}
+.product-grid p{
+	color:#666;
+	font-size: 20px;
+	text-align: center;
+	line-height:1.8em;	
+}
+.product-grid img:hover{
+	opacity:0.9;
+}
+.product-grid{
+    text-align:center;
+}

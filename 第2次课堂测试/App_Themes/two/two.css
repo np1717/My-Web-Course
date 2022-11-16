@@ -1,0 +1,52 @@
+﻿body {
+}
+.total{
+    width:760px;
+    text-align:center;
+}
+.logo{
+    height:140px;
+    line-height:140px;
+   
+    background-color: #00FF00;
+
+}
+.navigation{
+    height:80px;
+    line-height:80px;
+    background-color: #3399FF;
+}
+.content{
+    height:300px;
+    width:760px;
+    line-height:300px;
+}
+.left{
+    width:100px;
+    float:left;
+    height:300px;
+    background-color: #00FF00;
+}
+.middle{
+    height:300px;
+    width:660px;
+    float:left;
+    background-color:aliceblue;
+}
+.bottom{
+    height:80px;
+    line-height:80px;
+    background-color: #3399FF;
+}
+.text{
+    text-align:center;
+    
+    width:300px;
+    height: 146px;
+}
+
+.image{
+    height:150px;
+    width:750px;
+    
+}

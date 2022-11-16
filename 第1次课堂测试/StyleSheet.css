@@ -1,0 +1,57 @@
+﻿body 
+{
+    margin:0px;
+}
+#apTop {
+	position:relative;
+	margin:auto;
+	width:600px;
+	text-align:center;
+	border:#00F 1px solid;
+}
+#apCenter {
+	position:relative;
+	margin:5px auto;
+	width:600px;
+	height:240px;
+	border:#00F 1px solid;
+}
+#apMain {
+	position:relative;
+	margin:0 auto;
+	width:600px;
+	height:265px;
+	border:#00F 1px solid;
+}
+#apMainLeft {
+	position:absolute;
+	left:0px;
+	bottom:0px;
+	border:#F00 1px solid;
+}
+#apMainRight {
+	position:absolute;
+	right:0px;
+	bottom:0px;
+	border:#F00 1px solid;
+}
+td{
+	font-size:12px;
+}
+td img{
+	border:0
+}
+.Center{
+	text-align:center
+}
+a:link{
+	color:#000;
+	text-decoration:none;
+}
+a:visited{
+	text-decoration:none
+}
+a:hover{
+	color:#00F;
+	text-decoration:underline;
+}
